@@ -6,5 +6,9 @@ view: users {
     type: date
     sql: ${TABLE}.created_at ;;
   }
+
+  dimension: test_add_via_advanced_deploy {
+    sql: 'test' ;;
+  }
 }
 explore: users {}
