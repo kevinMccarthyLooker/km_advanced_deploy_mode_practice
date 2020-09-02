@@ -11,7 +11,7 @@ view: users {
     sql: 'test' ;;
   }
   dimension: test_add_via_advanced_deploy_only_committed {
-    sql: 'test only committed3' ;;
+    sql: 'test only committed4' ;;
   }
 }
 # another change
