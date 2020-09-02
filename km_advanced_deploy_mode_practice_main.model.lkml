@@ -11,4 +11,5 @@ view: users {
     sql: 'test' ;;
   }
 }
+# another change
 explore: users {}
